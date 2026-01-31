@@ -2,7 +2,7 @@
 
 ## 📊 Presentation
 
-13-slide investor pitch presentation for Price Manager Pro - an enterprise price optimization platform.
+
 
 ## 🚀 View Live
 
